@@ -62,14 +62,14 @@ global.psaweria = 'https://saweria.com/jarotoffc' //Link Saweriamu Kalo Nggada K
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281376349712' //Nomor Bot
-global.nomorown = '6285850539404' //Nomor Owner
+global.nomorown = '62895411188135' //Nomor Owner
 global.namebot = 'OSCAR-MULTIDEVICE'  //Nama Bot
 global.nameown = 'Oscar Offc'  // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285850539404', '❦ Oscar 🎐', true] //Ganti jd nomormu sama Namamu
+  ['62895411188135', '❦ Oscar 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
